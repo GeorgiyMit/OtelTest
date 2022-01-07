@@ -1,8 +1,7 @@
 .LandingPage{
     width: 1440px;
     height: 1343;
-    top: -450px;
-    left: -721px;
+
     position: relative;
 
 }
@@ -18,9 +17,8 @@
 }
 .Logo {
     position: absolute;
-    width: 53.19px;
-    height: 12.95px;
-    left: 192.5px;
-    top:28.33px;
-    background: rgba(31, 32, 65, 1);
+    width: 105.69px;
+    height: 40px;
+    left: 140px;
+    top:15px;
 }
